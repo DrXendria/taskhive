@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', $task->title)
-<h1>The list of tasks:</h1>
+@section('title', 'The list of tasks:')
+
 
 
 @section('content')
