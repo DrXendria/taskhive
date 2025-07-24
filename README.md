@@ -62,6 +62,7 @@ Open a terminal and run the following in the container:
 composer install
 php artisan key:generate
 php artisan migrate
+php artisan serve
 ```
 
 Once everything is up, visit: [http://localhost:8000](http://localhost:8000)
